@@ -50,4 +50,11 @@ The results suggest that the two datasets provide complementary insights. Bank M
 
 ## Reproducibility
 
-Download the datasets from the official UCI links above and place the CSV files in the same directory as the notebook before running it.
+The datasets are not stored in this repository. Download the original datasets from the official UCI links listed above.
+
+The analysis uses:
+
+- `bank-additional-full.csv` from the Bank Marketing archive
+- `online_shoppers_intention.csv` from the Online Shoppers Purchasing Intention dataset
+
+Place both files in the same directory as the notebook and run the notebook from top to bottom.
